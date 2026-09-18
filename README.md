@@ -1,5 +1,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/Founder-neeravpatel?style=for-the-badge)
 
+![Defence Analyst](https://img.shields.io/badge/Defence%20Analyst-Intelligence-1f2937?style=for-the-badge&logo=shield&logoColor=white)
+![Counter Intelligence](https://img.shields.io/badge/Counter%20Intelligence-Analysis-4b5563?style=for-the-badge&logo=target&logoColor=white)
+
+
 ## 🛡️ Security & Technology
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -9,6 +13,28 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+
+## 📊 GitHub
+
+![Followers](https://img.shields.io/github/followers/Founder-neeravpatel?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/github/stars/Founder-neeravpatel?style=for-the-badge&logo=github)
+![Repositories](https://img.shields.io/badge/Public%20Repositories-6-blue?style=for-the-badge)
+
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-purple--team--lab-181717?style=for-the-badge&logo=github)](https://github.com/Founder-neeravpatel/purple-team-lab)
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-identity--correlator-181717?style=for-the-badge&logo=github)](https://github.com/Founder-neeravpatel/identity-correlator)
+
+
+## 🛡️ Cybersecurity Profile
+
+![Purple Team](https://img.shields.io/badge/Purple%20Team-Specialist-red?style=for-the-badge)
+![VAPT](https://img.shields.io/badge/VAPT-Security%20Testing-orange?style=for-the-badge)
+![Digital Forensics](https://img.shields.io/badge/Digital-Forensics-blue?style=for-the-badge)
+![Threat Intelligence](https://img.shields.io/badge/Threat-Intelligence-purple?style=for-the-badge)
+![SOC](https://img.shields.io/badge/SOC-Splunk-black?style=for-the-badge&logo=splunk)
+![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python)
+![Linux](https://img.shields.io/badge/Linux-Security-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 <h1 align="center">Neerav Patel</h1>
