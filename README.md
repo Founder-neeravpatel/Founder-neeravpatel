@@ -1,3 +1,4 @@
+![GitHub followers](https://img.shields.io/github/followers/Founder-neeravpatel?style=for-the-badge)
 <h1 align="center">Neerav Patel</h1>
 <h3 align="center">Purple Team Specialist &amp; Digital Forensic Investigator</h3>
 
