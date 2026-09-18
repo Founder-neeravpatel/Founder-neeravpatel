@@ -106,16 +106,15 @@ Full list of 19 certifications across offense, forensics, blue team, and GRC →
 
 ---
 
-### // GitHub stats
+---
+
+### // Counter-Intelligence Activity
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Founder-neeravpatel&show_icons=true&theme=dark&hide_border=true"
-    width="48%"
-  />
-  <img
-    src="https://streak-stats.demolab.com/?user=Founder-neeravpatel&theme=dark&hide_border=true"
-    width="48%"
+    src="./assets/counter_intelligence_radar.gif"
+    alt="Counter Intelligence Public Source Radar"
+    width="900"
   />
 </p>
 ---
