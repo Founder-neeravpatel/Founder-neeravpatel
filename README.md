@@ -104,12 +104,20 @@ Full list of 19 certifications across offense, forensics, blue team, and GRC →
 
 
 
+---
+
 ### // GitHub stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Founder-neeravpatel&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Founder-neeravpatel&theme=dark&hide_border=true" /></p>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Founder-neeravpatel&show_icons=true&theme=dark&hide_border=true"
+    width="48%"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=Founder-neeravpatel&theme=dark&hide_border=true"
+    width="48%"
+  />
+</p>
 ---
 
 <p align="center"><i>Have a case, an audit, or a suspicious file? <a href="mailto:xcybersquad@gmail.com">Let's talk</a>.</i></p>
