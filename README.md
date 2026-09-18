@@ -112,7 +112,7 @@ Full list of 19 certifications across offense, forensics, blue team, and GRC →
 
 <p align="center">
   <img
-    src="./assets/counter_intelligence_radar.gif"
+    src="C:\Users\xcybe\Downloads/counter_intelligence_radar.gif"
     alt="Counter Intelligence Public Source Radar"
     width="900"
   />
