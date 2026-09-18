@@ -108,12 +108,6 @@ Full list of 19 certifications across offense, forensics, blue team, and GRC →
 
 ---
 
-### // Counter-Intelligence Activity
 
-<p align="center">
-<img src="https://github.com/Founder-neeravpatel/Founder-neeravpatel/blob/main/assets/counter-intelligence-radar.svg?raw=true"
-     width="900"
-     alt="Counter Intelligence Public Source Radar">
-</p>
 
 <p align="center"><i>Have a case, an audit, or a suspicious file? <a href="mailto:xcybersquad@gmail.com">Let's talk</a>.</i></p>
