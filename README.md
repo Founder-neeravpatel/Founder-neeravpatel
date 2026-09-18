@@ -104,11 +104,7 @@ Full list of 19 certifications across offense, forensics, blue team, and GRC →
 
 
 
----
 
----
-
----
 
 ### // Counter-Intelligence Activity
 
@@ -121,8 +117,6 @@ Full list of 19 certifications across offense, forensics, blue team, and GRC →
 </p>
 
 
-### // GitHub stats
----
 
 ### // GitHub Intelligence
 
