@@ -112,27 +112,11 @@ Full list of 19 certifications across offense, forensics, blue team, and GRC →
   <img
     src="./assets/counter_intelligence_radar.gif"
     alt="Counter Intelligence Public Source Radar"
-    width="900"
-  />
+    width="900" /img>
 </p>
 
 
 
-### // GitHub Intelligence
-
-<p align="center">
-  <img
-    src="./profile/stats.svg"
-    alt="GitHub Statistics"
-    width="49%"
-  />
-
-  <img
-    src="./profile/top-langs.svg"
-    alt="Top Programming Languages"
-    width="49%"
-  />
-</p>
 
 
 <p align="center"><i>Have a case, an audit, or a suspicious file? <a href="mailto:xcybersquad@gmail.com">Let's talk</a>.</i></p>
